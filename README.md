@@ -1,1 +1,1 @@
-Starting to code today, so cool
+#updated readme file Starting to code today, so cool
